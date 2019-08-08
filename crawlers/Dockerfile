@@ -1,9 +1,10 @@
 FROM python:3
 
-ADD app.py /
+WORKDIR /app
 
 RUN pip install requests
 
 RUN pip install beautifulsoup4
 
-CMD [ "python", "./app.py" ]
+# CMD [ "python", "./app.py" ]
+CMD [ "bash" ]
