@@ -1,6 +1,6 @@
 ## Python Reddit Crawler :heart::snake:
 
-Este crawler lista alguns *subreddits* com mais de 5000 *upvotes* no Reddit.
+Este crawler lista alguns posts com mais de 5000 *upvotes* em um [determinado](http://reddit.com/r/cats) *subreddit* no Reddit.
 
 ### :whale: Rodado com docker
 
